@@ -77,7 +77,7 @@ In my free time I build and break things to learn how they work.
     alt="Ethical Hacking Capstone Project: Breach, Response, AI" 
     width="96"
   ></a>
-  
+  <br>
   <a href="https://www.credly.com/badges/94574dcd-032d-4ae7-8678-6be31bcc50e6/public_url">
   <img 
     src="./images/certificates/Cisco/Python-Essentials-1.png" 
