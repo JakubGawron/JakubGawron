@@ -31,8 +31,8 @@ In my free time I build and break things to learn how they work.
 
 <p>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ps%2Cai%2Cblender%2C%2C%2C%2C%2C%2C&theme=dark">
-    <img alt="Design tools" src="https://skillicons.dev/icons?i=ps,ai,blender,,,,,,&theme=light">
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ps%2Cai%2Cfigma%2C%2C%2C%2C%2C%2C&theme=dark">
+    <img alt="Design tools" src="https://skillicons.dev/icons?i=ps,ai,figma,,,,,,,&theme=light">
   </picture>
 </p>
 
