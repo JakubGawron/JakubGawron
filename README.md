@@ -78,6 +78,18 @@ In my free time I build and break things to learn how they work.
     width="96"
   ></a>
   <br>
+  <a href="https://www.credly.com/badges/29d606ee-92a6-4555-9d05-064b67c524a9/public_url">
+  <img 
+    src="./images/certificates/Cisco/Endpoint-Security.png" 
+    alt="Endpoint Security" 
+    width="96"
+  ></a>
+  <a href="https://www.credly.com/badges/e5375efc-e4b6-41cf-be30-e3fefd0df495/public_url">
+  <img 
+    src="./images/certificates/Cisco/HTML-Essentials.png" 
+    alt="HTML Essentials" 
+    width="96"
+  ></a>
   <a href="https://www.credly.com/badges/94574dcd-032d-4ae7-8678-6be31bcc50e6/public_url">
   <img 
     src="./images/certificates/Cisco/Python-Essentials-1.png" 
@@ -90,10 +102,16 @@ In my free time I build and break things to learn how they work.
     alt="Python Essentials 2" 
     width="96"
   ></a>
-  <a href="https://www.credly.com/badges/f43eca7e-de2e-4aa5-89dc-85fa046af05a/public_url">
+  <a href="https://www.credly.com/badges/d04bcff2-f8a6-4ead-8d21-ff045f321b31/public_url">
   <img 
-    src="./images/certificates/Cisco/Introduction-to-Cybersecurity.png" 
-    alt="Introduction to Cybersecurity" 
+    src="./images/certificates/Cisco/JavaScript-Essentials-1.png" 
+    alt="JavaScript Essentials 1" 
+    width="96"
+  ></a>
+  <a href="https://www.credly.com/badges/6630f4cc-120f-43c5-9a69-394b6969ba4d/public_url">
+  <img 
+    src="./images/certificates/Cisco/JavaScript-Essentials-2.png" 
+    alt="JavaScript Essentials 2" 
     width="96"
   ></a>
 </p>
